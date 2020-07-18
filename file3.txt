@@ -1,2 +1,14 @@
 This is file 3.
 And another line.
+<<<<<<< HEAD
+=======
+And another line.
+And another line.
+And another line.
+And another line.
+And another line.
+And another line.
+And another line.
+And another line.
+And another line.
+>>>>>>> feature-x

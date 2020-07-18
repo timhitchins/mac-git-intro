@@ -1,1 +1,2 @@
 This is file 1.
+Her is another line.
